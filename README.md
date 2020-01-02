@@ -26,3 +26,4 @@ Config info can be viewed via: npm help config
 
 npm@6.4.1 /usr/local/lib/node_modules/npm
 
+# ionic-3-hello
